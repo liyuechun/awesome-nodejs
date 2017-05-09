@@ -14,7 +14,9 @@ Have something that belongs under "Buzzing"? drop me a line: liyuechun2009@163.c
 - [http://nodejs.jakeyu.top/](http://nodejs.jakeyu.top/)
 - [https://nodejs.org/en/](https://nodejs.org/en/)
 - [http://nodejs.cn/](http://nodejs.cn/)
-
+- [https://nodemon.io/](https://nodemon.io/)
+- [http://ggice.github.io/nodejsstart/](http://ggice.github.io/nodejsstart/)
+- [https://chenshenhai.github.io/koa2-note/](https://chenshenhai.github.io/koa2-note/)
 
 ## Contact Me
 
