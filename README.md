@@ -6,7 +6,7 @@ Have something that belongs under "Buzzing"? drop me a line: liyuechun2009@163.c
 
 ## Blobs
 
-
+- [https://yunnysunny.gitbooks.io/nodebook/content/](https://yunnysunny.gitbooks.io/nodebook/content/)
 - [https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongodb/](https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongodb/)
 - [http://www.nodebeginner.org/index-zh-cn.html#about](http://www.nodebeginner.org/index-zh-cn.html#about)
 - [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
